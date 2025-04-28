@@ -6,28 +6,31 @@ I want to be a good software developer, so I'm learning hard!
 ---
 
 ## 🛠️ Tech Stack
-<table>
-  <tr>
-    <td>Java</td>
-    <td>C++</td>
-  </tr>
-  <tr>
-    <td>Spring MVC</td>
-    <td>Spring Boot</td>
-    <td>Spring JPA</td>
-    <td>Spring JDBC</td>
-  </tr>
-  <tr>
-    <td>Spring Security</td>
-    <td>Spring AOP</td>
-    <td>Spring Actuator</td>
-    <td>JUnit5</td>
-  </tr>
-  <tr>
-    <td>MySQL</td>
-    <td>Docker</td>
-  </tr>
-</table>
+
+## 🛠️ Tech Stack
+
+<!-- Language -->
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+<!-- Spring -->
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
+![Spring JPA](https://img.shields.io/badge/Spring%20JPA-6DB33F?style=flat-square&logo=Hibernate&logoColor=white)
+![Spring JDBC](https://img.shields.io/badge/Spring%20JDBC-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+
+<!-- Spring Security / AOP / Actuator / JUnit5 -->
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white)
+![Spring AOP](https://img.shields.io/badge/Spring%20AOP-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Spring Actuator](https://img.shields.io/badge/Spring%20Actuator-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white)
+
+<!-- Database -->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+<!-- Infra -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+
 
 
 
