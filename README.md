@@ -6,10 +6,29 @@ I want to be a good software developer, so I'm learning hard!
 ---
 
 ## 🛠️ Tech Stack
-- Java,C++
-- Spring MVC, Spring Boot, Spring JPA, Spring JDBC
-- Spring Security, Spring AOP, Spring Actuator, JUnit5
-- MySQL, Docker
+<table>
+  <tr>
+    <td>Java</td>
+    <td>C++</td>
+  </tr>
+  <tr>
+    <td>Spring MVC</td>
+    <td>Spring Boot</td>
+    <td>Spring JPA</td>
+    <td>Spring JDBC</td>
+  </tr>
+  <tr>
+    <td>Spring Security</td>
+    <td>Spring AOP</td>
+    <td>Spring Actuator</td>
+    <td>JUnit5</td>
+  </tr>
+  <tr>
+    <td>MySQL</td>
+    <td>Docker</td>
+  </tr>
+</table>
+
 
 
 ---
