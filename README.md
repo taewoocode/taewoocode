@@ -24,7 +24,7 @@ I want to be a good software developer, so I'm learning hard!
 ---
 
 ## 🏆 Coding Profile
-- [Solved.ac Profile](https://solved.ac/qkrxodn6035)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrxodn6035)](https://solved.ac/qkrxodn6035)
 
 ---
 
