@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Kim!
 
-<!--
-**taewoocode/taewoocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+좋은 엔지니어가 되고싶어 열심히 학습 중입니다!  
+I want to be a good software engineer, so I'm learning hard!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Java,C++
+- Spring MVC, Spring Boot, Spring JPA, Spring JDBC
+- Spring Security, Spring AOP, Spring Actuator, JUnit5
+- MySQL, Docker
+
+
+---
+
+## 📈 My GitHub Stats
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taewoocode&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taewoocode&theme=dark)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewoocode&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🏆 Coding Profile
+- [Solved.ac Profile](https://solved.ac/qkrxodn6035)
+
+---
+
+## 💬 Let's Connect!
+- Email: qkrxodn6035@gmail.com
