@@ -7,10 +7,6 @@ I want to be a good software developer, so I'm learning hard!
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
-
 <!-- Language -->
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
