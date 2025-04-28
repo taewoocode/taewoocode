@@ -1,7 +1,7 @@
-# Hi there 👋, I'm Kim!
+# Hi there 👋
 
-좋은 엔지니어가 되고싶어 열심히 학습 중입니다!  
-I want to be a good software engineer, so I'm learning hard!
+좋은 개발자가 되고싶어 열심히 학습 중입니다!  
+I want to be a good software developer, so I'm learning hard!
 
 ---
 
