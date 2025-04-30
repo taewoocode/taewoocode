@@ -37,8 +37,6 @@ I want to be a good software developer, so I'm learning hard!
 ## 📈 My GitHub Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taewoocode&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taewoocode&theme=dark)](https://git.io/streak-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewoocode&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
